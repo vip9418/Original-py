@@ -1,12 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTk3Ljg0LjcwOjQ0Mw==#SG, Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODcuMTg1LjEyOTo0NDM=#US, Dallas 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuNjQuMTI0LjkyOjQ0Mw==#HK, New Territories
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjMxLjE5NC4xNjE6NDQz#TW, Taipei
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzguNjkuMjQxOjQ0Mw==#KR, Incheon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjEyLjYxLjk5OjQ0Mw==#HK, Los Angeles
-hysteria2://dongtaiwang.com@46.17.41.189:51224?upmbps=11&downmbps=55&sni=www.bing.com#Hysteria2-46.17.41.189
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuNjQuMTI0LjkyOjQ0Mw==#JP, Tokyo 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC43NDo0NDM=#JP, Osaka
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTk4LjE1LjE4Mjo0NDM=#SG, Singapore
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAyLjU4LjIzNzo0NDM=#TW, Taipei
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzguOTguMTEzOjQ0Mw==#JP, Tokyo
@@ -34,3 +25,12 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zNC4xNDQuMzA6NDQz#JP, Osaka
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTI1LjIxOC4yNjo0NDM=#HK, Kowloon
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTg1LjIxMS43NDo0NDM=#US, Dallas 2
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODcuMTA2LjE3Njo0NDM=#CA, Vancouver
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zOC4yMTQuNzY6NDQz#SG, Singapore
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjExLjk3LjIzOTo0NDM=#US, Houston
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjAzLjk5LjIxOjQ0Mw==#HK, Los Angeles
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE3Ljc1LjIwNTo0NDM=#US, Dallas 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4xMTIuMS45NTo0NDM=#HK, New Territories
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjEyLjYxLjk5OjQ0Mw==#CA, Vancouver
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDcuMTI5LjcuMTk4OjQ0Mw==#JP, Tokyo 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzguODMuOTY6NDQz#JP, Tokyo
+hysteria://185.22.155.71:63717?upmbps=11&downmbps=55&obfs=dongtaiwang.com&sni=apple.com#Hysteria1-185.22.155.71
