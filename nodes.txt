@@ -1,14 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjcxLjI1Mjo0NDM=#CA, Vancouver
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjExLjIzMC4xNjE6NDQz#HK, Los Angeles
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjAyLjYzLjE2OTo0NDM=#US, Houston
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zOC45Ny4yNDk6NDQz#HK, Kowloon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzguMTIwLjEwNTo0NDM=#HK, New Territories
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTgwLjIzOC4xMDg6NDQz#TW, Taipei
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjAuMjExOjQ0Mw==#JP, Osaka
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTg1LjIxNi45ODo0NDM=#US, Dallas 2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4xMTIuMi4zOTo0NDM=#KR, Incheon
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjM4LjExNS4yMzY6NDQz#SG, Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTY5LjY0Ljk4OjQ0Mw==#JP, Tokyo 2
 hysteria2://dongtaiwang.com@46.17.41.189:51224?upmbps=11&downmbps=55&sni=www.bing.com#Hysteria2-46.17.41.189
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjAyLjYzLjE2OTo0NDM=#CA, Vancouver
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjU0LjEzOC40MDo0NDM=#HK, Kowloon
@@ -34,3 +23,14 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAzLjE5My4xMDk6NDQz#HK, Kowloon
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTE1LjE2Mi4xMzc6NDQz#TW, Taipei
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4xMTIuMjA1LjQwOjQ0Mw==#KR, Incheon
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjIyLjQ0LjU6NDQz#US, Dallas 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODYuMTExLjIzMzo0NDM=#US, Dallas 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMjMwLjE0Mi40Mjo0NDM=#HK, New Territories
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAzLjE5My4xMDk6NDQz#KR, Incheon
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA2LjIyMi4yMTk6NDQz#SG, Singapore
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTI0LjEwMy43OjQ0Mw==#HK, Kowloon
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjU0LjEzOC40MDo0NDM=#JP, Tokyo
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTI0Ljc2LjI4OjQ0Mw==#JP, Tokyo 2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAzLjIyOS4xNjI6NDQz#JP, Osaka
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA3LjE1My43ODo0NDM=#TW, Taipei
+hysteria://185.22.155.71:10803?upmbps=11&downmbps=55&sni=apple.com#Hysteria1-185.22.155.71
+hysteria2://dongtaiwang.com@46.17.41.217:37481?upmbps=11&downmbps=55&sni=www.bing.com#Hysteria2-46.17.41.217
