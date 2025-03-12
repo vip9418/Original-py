@@ -2,7 +2,7 @@ name: Update PY
 
 on:
   schedule:
-    - cron: '0 2 * * *'  
+    - cron: '0 18 * * *'  
       timezone: Asia/Shanghai
   workflow_dispatch:
 
